@@ -11,11 +11,11 @@ bassruann@gmail.com
 
 Para jogar é utilizado o teclado:
 
-W - Para cima
-A - Para Direita
-S - Para baixo
-D - Para esquerda
-Espaço - Dispara
+W - Para cima <br/>
+A - Para Direita <br/>
+S - Para baixo <br/>
+D - Para esquerda <br/>
+Espaço - Dispara <br/>
 
 
 # Sobre as imagens
