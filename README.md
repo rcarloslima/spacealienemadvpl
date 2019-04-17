@@ -4,7 +4,7 @@ Estava querendo fazer alguma coisa diferente em Advpl, com isso pensei em fazer 
 
 Quem quiser contribuir para melhorar, criticar, comentar ou qualquer dúvida estou a disposição.
 
-Ruann Carlos
+Ruann Carlos <br/>
 bassruann@gmail.com
 
 # Processo de deploy
