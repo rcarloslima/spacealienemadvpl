@@ -7,6 +7,32 @@ Quem quiser contribuir para melhorar, criticar, comentar ou qualquer dúvida est
 Ruann Carlos <br/>
 bassruann@gmail.com
 
+# Para jogar
+
+Para jogar é utilizado o teclado:
+
+W - Para cima
+A - Para Direita
+S - Para baixo
+D - Para esquerda
+Espaço - Dispara
+
+
+# Sobre as imagens
+
+No Windows 
+
+É feito o download direto do github para a pasta temp, então não é necessário compilar as imagens.
+
+No Mac 
+
+É necessário compilar as imagens no RPO.
+
+No Linux
+
+Não testei ainda
+
+
 # Processo de deploy
 
 1 - Adicionar os fontes no projeto <br/>
