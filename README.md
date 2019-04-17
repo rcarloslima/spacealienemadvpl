@@ -1,4 +1,4 @@
-# Space Alien em ADVPL
+# Space Alien em ADVPL ( Quase terminando )
 
 Estava querendo fazer alguma coisa diferente em Advpl, com isso pensei em fazer esse jogo, para fugir um pouco de ficar desenhando tela, relatório e integrações.
 
